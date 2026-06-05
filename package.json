@@ -1,0 +1,33 @@
+{
+  "name": "mercury-x402-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Mercury — 17 keyless, signed-provenance web-data tools your AI agent can pay for itself over x402 (Base mainnet, USDC). No API key, no account.",
+  "type": "module",
+  "bin": {
+    "mercury-x402-mcp": "index.mjs"
+  },
+  "main": "index.mjs",
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "keywords": [
+    "mcp",
+    "x402",
+    "ai-agents",
+    "web-data",
+    "provenance",
+    "base",
+    "usdc",
+    "model-context-protocol"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "viem": "^2.21.0",
+    "x402-fetch": "^1.2.0"
+  }
+}
