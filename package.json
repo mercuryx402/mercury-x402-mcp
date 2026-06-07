@@ -1,5 +1,6 @@
 {
   "name": "mercury-x402-mcp",
+  "mcpName": "io.github.mercuryx402/mercury-x402-mcp",
   "version": "1.0.0",
   "description": "MCP server for Mercury — 17 keyless, signed-provenance web-data tools your AI agent can pay for itself over x402 (Base mainnet, USDC). No API key, no account.",
   "type": "module",
