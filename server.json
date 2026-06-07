@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.mercuryx402/mercury-x402-mcp",
   "description": "Agent-payable web data over x402: 18 keyless services an agent pays per call.",
   "repository": {
